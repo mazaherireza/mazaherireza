@@ -5,5 +5,5 @@
 I learn and construct.
 <br />
 <br />
-You can reach me on
-[Email](mailto:rezamazaheri.email@gmail.com)
+You can find me on
+[Email](mailto:rezamazaheri.email@gmail.com).
