@@ -1,8 +1,11 @@
 # Hello World!
 
-I learn and construct.
-
 <div align="center">
-  <br />
-  ![Reza Mazaheri](/assets/imgs/Reza_Mazaheri.png)
+I'm Reza Mazaheri.
+<br />
+I learn and construct.
+<br />
+[Email](mailto:rezamazaheri.email@gmail.com)
 </div>
+
+
