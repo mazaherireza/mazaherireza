@@ -1,0 +1,51 @@
+body {
+  background-color: var(--lavendar, #e6e6fa);
+}
+
+main {
+  padding: 1rem;
+}
+
+figure img {
+  width: 12rem;
+  height: 12rem;
+}
+
+main .container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+main #salutation {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+main #introduce {
+  font-weight: bold;
+  font-size: large;
+}
+
+main .paragraph {
+  font-size: small;
+}
+
+main #salutation,
+main #introduce,
+main .paragraph {
+  color: var(--roku-purple, #662d91);
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: small;
+  color: var(--roku-purple, #662d91);
+}
+
+.tag {
+  font-size: x-small;
+  font-weight: bold;
+  color: var(--suns-pruple, #1d1160);
+  padding: 0.1rem 0.25rem;
+}
