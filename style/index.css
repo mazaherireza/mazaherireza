@@ -2,6 +2,18 @@ body {
   background-color: var(--lavendar, #e6e6fa);
 }
 
+header {
+  background-color: var(--roku-purple, #662d91);
+}
+
+header #hero-title {
+  color: var(--white, #fff);
+}
+
+header .container {
+  border-bottom: 1px solid var(--suns-pruple, #1d1160);
+}
+
 main {
   padding: 1rem;
 }
