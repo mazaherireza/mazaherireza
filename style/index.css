@@ -1,17 +1,18 @@
 body {
+  min-height: 100dvh;
   background-color: var(--lavendar, #e6e6fa);
+  position: relative;
 }
 
 header {
   background-color: var(--roku-purple, #662d91);
+  position: sticky;
+  top: 0;
+  height: 5rem;
 }
 
 header #hero-title {
   color: var(--white, #fff);
-}
-
-header .container {
-  border-bottom: 1px solid var(--suns-pruple, #1d1160);
 }
 
 main {
@@ -60,4 +61,11 @@ main .paragraph {
   font-weight: bold;
   color: var(--suns-pruple, #1d1160);
   padding: 0.1rem 0.25rem;
+}
+
+footer {
+  height: 5rem;
+  position: relative;
+  bottom: 0;
+  background-color: var(--roku-purple, #662d91);
 }
